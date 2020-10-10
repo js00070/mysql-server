@@ -3069,5 +3069,36 @@ client/mysql_install_db
 internal/tests/open_files_limit
 client/mysql_ssl_rsa_setup
 
+archive_output_directory/
+client/dump/mysqlpump
+cmd-line-utils/libedit/libedit-20190324-3.1/src/common.h
+cmd-line-utils/libedit/libedit-20190324-3.1/src/func.h
+cmd-line-utils/libedit/libedit-20190324-3.1/src/makelist
+extra/boost_1_59_0.tar.gz
+extra/boost_1_59_0/
+extra/libevent/libevent-2.1.11-stable/include/evconfig-private.h
+extra/libevent/libevent-2.1.11-stable/include/event2/event-config.h
+extra/lz4_decompress
+extra/protobuf/protoc
+extra/zlib_decompress
+find_libevent_version.c
+install_manifest.txt
+libbinlogevents/include/binlog_config.h
+libmysql/libmysql_api_test.out
+libmysql/libmysql_dummy.cc
+libmysqld/lex_token.h
+packaging/rpm-common/my.cnf
+packaging/rpm-common/mysql.logrotate
+packaging/rpm-docker/my.cnf
+plugin/rewriter/install_rewriter.sql
+plugin/rewriter/uninstall_rewriter.sql
+rapid/plugin/group_replication/include/mysql/
+rapid/plugin/group_replication/include/xcom/
+rapid/plugin/group_replication/xdr_gen/
+rapid/plugin/x/mysqlxtest
+scripts/mysqlclient.pc
+scripts/sql_commands_sys_schema.h
+zlib/zconf.h
+
 # Allow
 !include/*/boost/geometry/*
